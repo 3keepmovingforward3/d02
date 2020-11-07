@@ -5,7 +5,7 @@ dependencies:
   - python==3.7.3
   - numpy
   - matplotlib
-  - tensorflow==2.3.0
+  - tensorflow==2
   - tensorboard
   - torch
   - setuptools
