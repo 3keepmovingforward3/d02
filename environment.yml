@@ -1,0 +1,22 @@
+name: default
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib
+  - tensorflow
+  - tensorboard
+  - torch
+  - sympy
+  - setuptools
+  - ipywidgets
+  - Pillow
+  - h5py
+  - arrow
+  - Keras
+  - pydot
+  - pip:
+    - jupyter_contrib_nbextensions
+    - ipywidgets
+    - pokemon
